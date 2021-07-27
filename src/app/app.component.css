@@ -1,0 +1,51 @@
+.d{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 400px;
+    background-color: rgb(240, 116, 116);
+    color: white;
+    box-shadow: rgb(104, 101, 101) 3px 5px 10px;
+    border-radius: 0.3rem;
+    flex-direction: column;
+   
+
+
+
+}
+span{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.m{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: flex-start;
+
+
+}
+
+
+.b{
+    background-color: rgb(124, 48, 48);
+    color: white;
+    text-align: center;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    z-index: -1;
+    padding: -4rem;
+}
+
+
+.c{
+margin-top: 5rem;
+
+}
